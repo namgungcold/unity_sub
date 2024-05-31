@@ -1,6 +1,8 @@
 # unity_sub
 solo fps game project
+
 # 🎮게임 설명
+- 게임명: Monster_Attack
 - 주제: FPS 1인칭 게임 - 3개의 stage clear를 목표
 - 내용: 스테이지마다 총알은 100발을 주고 각 stage 마다 정해진 좀비를 잡는 것이 목표
 # 시작 화면
